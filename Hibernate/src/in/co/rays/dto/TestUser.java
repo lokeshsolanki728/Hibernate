@@ -10,8 +10,8 @@ public class TestUser {
 public static SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
 	
 public static void main(String[] args) throws ParseException {
-	testSearch();
-	//testAdd();
+	//testSearch();
+	testAdd();
 	//testUpdate();
 	//testAuthenicate();
 	//testSearchName();
